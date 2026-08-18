@@ -32,5 +32,3 @@ jobs:
 
       - name: Apply Terraform Configuration
         run: terraform plan
-      - name: script
-        run: "echo hello world"
